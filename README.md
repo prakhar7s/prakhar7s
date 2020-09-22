@@ -1,5 +1,5 @@
 ### Hello folks, My name is Prakhar Shrivastava.
-### Competitive programming | Full Stack Developer
+### Competitive programmer | Full Stack Developer
 
 - 🔭 I’m currently working on my problem solving skills.
 - 🌱 I’m currently learning MERN Stack development.
