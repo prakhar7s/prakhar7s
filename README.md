@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello folks, My name is Prakhar Shrivastava.
+### Competitive programming | Full Stack Developer
+
+- 🔭 I’m currently working on my problem solving skills.
+- 🌱 I’m currently learning MERN Stack development.
 
 <!--
 **prakhar7s/prakhar7s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
