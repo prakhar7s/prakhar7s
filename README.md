@@ -1,5 +1,6 @@
 <h3 align ="center" >Hi there, This is Prakhar👋😁</h3>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
