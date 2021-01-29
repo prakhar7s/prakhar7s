@@ -1,11 +1,4 @@
-### Hello folks, My name is Prakhar Shrivastava.
-### Competitive programmer | Full Stack Developer
-
-- 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning MERN Stack development.
-
-<!--
-**prakhar7s/prakhar7s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align ="center" >Hi there, This is Prakhar👋😁</h3>
 
 Here are some ideas to get you started:
 
@@ -18,3 +11,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+<p align = "center">I am a 3rd Year undergraduate student. I aspire to be a valuable resource in society, I love to develop new software and bring my ideas to life. I love making games and webapps. I come up with creative solutions for complex problems. I believe in constant learning and exploring new things, wish to travel around the globe and write a book about it.</p>
+
+----
+
+- 🌱 I’m currently learning BackEnd Development.
+- 👯 I’m looking to collaborate on Web Development.
+- 💬 Ask me about Java, javascript, React, Python, UI/UX, and DSA.
+- ⚡ Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.
+
+
